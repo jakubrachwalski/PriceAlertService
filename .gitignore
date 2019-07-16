@@ -1,8 +1,0 @@
-.env
-alert_updater.py
-Pipfile*
-test.py
-OLD/
-*/__pycache__/*
-.idea/
-*.pyc
