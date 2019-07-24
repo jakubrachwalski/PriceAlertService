@@ -2,6 +2,7 @@ __author__ = 'Jakub Rachwalski'
 
 from typing import Dict
 import pymongo
+import os
 
 class Database:
     URI = os.environ.get('MONGOLAB_URI', None)
